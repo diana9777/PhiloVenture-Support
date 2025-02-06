@@ -4,7 +4,7 @@ Welcome to the support page for **PhiloVenture**! 🚀
 ## 📌 Contact Us  
 If you have any issues, feedback, or questions, please contact us:  
 - **Email**: diana529777@gmail.com  
-- **GitHub Issues**: [Report a Bug](https://github.com/yourusername/PhiloVenture-Support/issues)  
+- **GitHub Issues**: [Report a Bug](https://github.com/diana9777/PhiloVenture-Support/issues)  
 
 ## 📖 FAQs  
 **Q: How do I start my philosophical adventure?**  
