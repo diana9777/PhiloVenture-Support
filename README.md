@@ -1,4 +1,3 @@
-# PhiloVenture - Support  
 
 Welcome to the support page for **PhiloVenture**! 🚀  
 
