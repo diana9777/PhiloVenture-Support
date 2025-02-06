@@ -20,6 +20,9 @@ A: You can just swap the screen to turn the page.
 **Q: How can I open the menu dialog?**  
 A: Just touch the card  in the bottom-right cornor.  
 
+**Q: How can I choose the answer for the quiz?**  
+A: if you think the statement is right,touch the right door,otherwaise,touch the left door.  
+
 ---
 🌍 **Official Website:** [Coming Soon]  
 📲 **Download PhiloVenture now and explore philosophy!**  
